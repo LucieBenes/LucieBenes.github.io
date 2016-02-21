@@ -1,0 +1,24 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+h1 { color: silver;}
+ul li {display: inline-block;padding: 10px; 
+margin-right: 70px;}
+nav {background-color: blue}
+a {color: white; 
+text-decoration: none;}
+a:hover{color: yellow;}
+aside {float:left; width: 30%}
+article {float:left; width: 70%}
+footer {clear: both;}
+img {width: 300px;}
+body{font-family: "trebuchet ms"}
+.kursiva {font-style: italic; color: gray; font-size: 12px}
+blockquote{margin:0px; 
+background-color: silver; 
+padding: 10px; 
+  width: 250px; 
+  margin-top: 10px; 
+  border-top-left-radius: 30px; 
+  border-top-right-radius: 30px; 
+  border-bottom-left-radius: 30px; 
+  border-bottom-right-radius: 30px}
